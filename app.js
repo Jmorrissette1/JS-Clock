@@ -12,7 +12,7 @@ function setClock(){
 
     setRotation(secondHand, secondsRatio);
     setRotation(minuteHand, minutesRatio );
-    setRotation(hoursRatio, hoursRatio);
+    setRotation(hourHand, hoursRatio);
     
 }
 
